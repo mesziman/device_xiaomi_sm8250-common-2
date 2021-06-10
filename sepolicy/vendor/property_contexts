@@ -14,7 +14,7 @@ ro.vendor.camera.req.fmq.size                   u:object_r:vendor_camera_prop:s0
 ro.camera.res.fmq.size                          u:object_r:vendor_camera_prop:s0
 ro.camera.req.fmq.size                          u:object_r:vendor_camera_prop:s0
 
-# Display feature
+# Displayfeature
 vendor.panel.color                           u:object_r:vendor_displayfeature_prop:s0
 vendor.panel.vendor                          u:object_r:vendor_displayfeature_prop:s0
 vendor.panel.display                         u:object_r:vendor_displayfeature_prop:s0
