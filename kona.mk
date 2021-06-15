@@ -107,7 +107,8 @@ PRODUCT_PACKAGES += \
     libsndmonitor \
     libspkrprot \
     libvisualizer \
-    libvolumelistener
+    libvolumelistener \
+    tinymix
 
 # Audio configs
 PRODUCT_COPY_FILES += $(call find-copy-subdir-files,*,$(LOCAL_PATH)/configs/audio,$(TARGET_COPY_OUT_VENDOR)/etc)
